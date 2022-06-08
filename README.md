@@ -10,11 +10,9 @@
 - MySQL
 - NoSQL
 
-<br /><br />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 
-<br /><br />
+<br />
 ### Contatos:
 <br/>
 <div>
@@ -23,7 +21,7 @@
 <a href="https://www.linkedin.com/in/adnan-soffiatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br /><br />
+<br />
 <div>
 <a href="https://github.com/adnansoffiatti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansoffiatti&layout=compact&langs_count=7&theme=dracula"/>
