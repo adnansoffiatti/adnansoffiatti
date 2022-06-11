@@ -1,4 +1,4 @@
-# Olá, eu sou o Adnan Soffiatti Santos 🖖
+# Github de Adnan Soffiatti Santos
 
 - Sou formado em Tecnólogo em Análise e Desenvolvimento de Sistema
 - Faço Pós Graduação em Administração de Banco de Dados
