@@ -3,7 +3,7 @@
 - Sou formado em Tecnólogo em Análise e Desenvolvimento de Sistema
 
 
-### Estou ampliando meus conhecimentos em:
+### Conhecimentos em:
 - JavaScript (Node.js)
 - TypeScript
 - MySQL
